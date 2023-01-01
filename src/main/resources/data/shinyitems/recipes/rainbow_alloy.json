@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "SHS",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "shinyitems:shiny_alloy"
+    },
+    "S": {
+      "item": "shinyitems:shinyrald"
+    },
+    "H": {
+      "item": "shinyitems:shinymond"
+    }
+  },
+  "result": {
+    "item": "shinyitems:rainbow_alloy",
+    "count": 1
+  }
+}

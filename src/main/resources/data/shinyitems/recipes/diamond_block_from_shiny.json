@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shinyitems:shinymond"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "minecraft:diamond_block"
+  }
+}

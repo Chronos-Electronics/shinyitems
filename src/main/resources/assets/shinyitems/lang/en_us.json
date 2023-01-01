@@ -1,0 +1,31 @@
+{
+  "itemGroup.shinyitems.shiny_group": "Shiny Items Materials & Utilities",
+  "itemGroup.shinyitems.shiny_group_tools": "Shiny Items Tools & Armor",
+
+  "item.shinyitems.bread_pack": "Shiny Bread",
+
+  "item.shinyitems.shinymond": "Shiny Diamond",
+  "item.shinyitems.shinyrald": "Shiny Emerald",
+  "item.shinyitems.shiny_alloy": "Shiny Alloy",
+  "item.shinyitems.rainbow_alloy": "Rainbow Alloy",
+
+  "item.shinyitems.chainsaw": "Chainsaw",
+  "item.shinyitems.chainsaw.tooltip": "A really expensive Axe.",
+  "item.shinyitems.chainsaw.ExtraText": "Chainsaw Man Zrrrrrrrrrr!",
+
+  "item.shinyitems.longsword": "Longsword",
+  "item.shinyitems.longsword.tooltip": "A really expensive Sword.",
+  "item.shinyitems.longsword.ExtraText": "Get the Ohio Update out!",
+
+  "item.shinyitems.rainbow_hoe": "Rainbow Hoe",
+  "item.shinyitems.rainbow_hoe.tooltip": "A really expensive Hoe.",
+  "item.shinyitems.rainbow_hoe.ExtraText": "Happy Farming.",
+
+  "item.shinyitems.rainbow_shovel": "Rainbow Shovel",
+  "item.shinyitems.rainbow_shovel.tooltip": "A really expensive Shovel.",
+  "item.shinyitems.rainbow_shovel.ExtraText": "You can farm 390.625 Stacks Dirt with it.",
+
+  "item.shinyitems.drill": "Drill",
+  "item.shinyitems.drill.tooltip": "A really expensive Pickaxe.",
+  "item.shinyitems.drill.ExtraText": "DRRRRRRRRRRRRRRRRRRRRRRRRR!"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#S#",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "shinyitems:shiny_alloy"
+    },
+    "S": {
+      "item": "shinyitems:rainbow_alloy"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "shinyitems:drill",
+    "count": 1
+  }
+}

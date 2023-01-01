@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "/",
+    "/"
+  ],
+  "key": {
+    "#": {
+      "item": "shinyitems:rainbow_alloy"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "shinyitems:rainbow_shovel",
+    "count": 1
+  }
+}

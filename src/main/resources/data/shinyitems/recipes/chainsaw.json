@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R#",
+    "#I#",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "I": {
+      "item": "shinyitems:shiny_alloy"
+    },
+    "R": {
+      "item": "shinyitems:rainbow_alloy"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "shinyitems:chainsaw",
+    "count": 1
+  }
+}
