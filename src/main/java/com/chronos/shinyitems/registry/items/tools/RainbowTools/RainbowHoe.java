@@ -1,8 +1,9 @@
-package com.chronos.shinyitems.tools.RainbowTools;
+package com.chronos.shinyitems.registry.items.tools.RainbowTools;
 
 import com.chronos.shinyitems.material.RainbowToolMaterial;
 import net.minecraft.client.item.TooltipContext;
 import net.minecraft.item.AxeItem;
+import net.minecraft.item.HoeItem;
 import net.minecraft.item.ItemStack;
 import net.minecraft.text.Text;
 import net.minecraft.util.Formatting;
@@ -13,13 +14,13 @@ import java.util.List;
 
 import static com.chronos.shinyitems.registry.items.ModItems.SHINY_ITEM_GROUP_TOOLS;
 
-public class RainbowAxe extends AxeItem {
-    public static final RainbowAxe INSTANCE = new RainbowAxe(6, -2, new Settings()
+public class RainbowHoe extends HoeItem {
+    public static final RainbowHoe INSTANCE = new RainbowHoe(6, -2.4f, new Settings()
             .group(SHINY_ITEM_GROUP_TOOLS)
             .rarity(Rarity.EPIC));
 
 
-    public RainbowAxe(int atk, float speed, Settings settings) {
+    public RainbowHoe(int atk, float speed, Settings settings) {
         super(RainbowToolMaterial.INSTANCE, atk, speed, settings);
     }
 
@@ -32,6 +33,7 @@ public class RainbowAxe extends AxeItem {
 
         // formatted red text
         tooltip.add(Text.translatable("item.shinyitems.rainbow_hoe.ExtraText").formatted(Formatting.YELLOW));
+        tooltip.add(Text.translatable("item.shinyitems.rainbow_hoe.ExtraText2").formatted(Formatting.YELLOW));
     }
 
 }

@@ -13,13 +13,15 @@
   "item.shinyitems.chainsaw.tooltip": "A really expensive Axe.",
   "item.shinyitems.chainsaw.ExtraText": "Chainsaw Man Zrrrrrrrrrr!",
 
-  "item.shinyitems.longsword": "Longsword",
-  "item.shinyitems.longsword.tooltip": "A really expensive Sword.",
-  "item.shinyitems.longsword.ExtraText": "Get the Ohio Update out!",
+  "item.shinyitems.gog": "Longsword",
+  "item.shinyitems.gog.tooltip": "A really expensive Sword.",
+  "item.shinyitems.gog.ExtraText": "To get the Ohio Update out,",
+  "item.shinyitems.gog.ExtraText2": "it's item ID is shinyitems:gog",
 
   "item.shinyitems.rainbow_hoe": "Rainbow Hoe",
   "item.shinyitems.rainbow_hoe.tooltip": "A really expensive Hoe.",
-  "item.shinyitems.rainbow_hoe.ExtraText": "Happy Farming.",
+  "item.shinyitems.rainbow_hoe.ExtraText": "Who need 'Serious Dedication'?",
+  "item.shinyitems.rainbow_hoe.ExtraText2": "Real Giga chads craft themselves a Rainbow Hoe.",
 
   "item.shinyitems.rainbow_shovel": "Rainbow Shovel",
   "item.shinyitems.rainbow_shovel.tooltip": "A really expensive Shovel.",
@@ -27,5 +29,5 @@
 
   "item.shinyitems.drill": "Drill",
   "item.shinyitems.drill.tooltip": "A really expensive Pickaxe.",
-  "item.shinyitems.drill.ExtraText": "DRRRRRRRRRRRRRRRRRRRRRRRRR!"
+  "item.shinyitems.drill.ExtraText": "Efficiency won't give any real benefits."
 }

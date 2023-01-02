@@ -1,22 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
+    " # ",
     "#R#",
-    "#I#",
-    "#S#"
+    " R "
   ],
   "key": {
     "#": {
-      "item": "minecraft:diamond"
-    },
-    "I": {
-      "item": "shinyitems:shiny_alloy"
+      "item": "minecraft:iron_ingot"
     },
     "R": {
       "item": "shinyitems:rainbow_alloy"
-    },
-    "S": {
-      "item": "minecraft:stick"
     }
   },
   "result": {

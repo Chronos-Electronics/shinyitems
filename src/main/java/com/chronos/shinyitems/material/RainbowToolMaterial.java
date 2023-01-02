@@ -14,7 +14,7 @@ public class RainbowToolMaterial implements ToolMaterial {
 
     @Override
     public float getMiningSpeedMultiplier() {
-        return 13F;
+        return 15F;
     }
 
     @Override

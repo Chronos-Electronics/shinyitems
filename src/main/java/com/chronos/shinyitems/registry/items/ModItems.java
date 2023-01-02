@@ -1,7 +1,7 @@
 package com.chronos.shinyitems.registry.items;
 
 import com.chronos.shinyitems.ShinyItemsMod;
-import com.chronos.shinyitems.registry.items.RainbowTools.*;
+import com.chronos.shinyitems.registry.items.tools.RainbowTools.*;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -34,7 +34,7 @@ public class ModItems {
         registerItem("rainbow_alloy", Materials.RAINBOW_ALLOY);
         registerItem("bread_pack", Utilities.BREAD_PACK);
         registerItem("chainsaw", Chainsaw.INSTANCE);
-        registerItem("longsword", Longsword.INSTANCE);
+        registerItem("gog", Gog.INSTANCE);
         registerItem("rainbow_hoe", RainbowHoe.INSTANCE);
         registerItem("rainbow_shovel", RainbowShovel.INSTANCE);
         registerItem("drill", Drill.INSTANCE);

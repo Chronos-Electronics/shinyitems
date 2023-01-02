@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by Team Chronos",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "chainsaw",
-		"particle": "chainsaw"
+		"0": "shinyitems:items/chainsaw",
+		"particle": "shinyitems:items/chainsaw"
 	},
 	"elements": [
 		{

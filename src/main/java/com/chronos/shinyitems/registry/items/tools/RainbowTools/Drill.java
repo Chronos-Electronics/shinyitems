@@ -1,4 +1,4 @@
-package com.chronos.shinyitems.tools.RainbowTools;
+package com.chronos.shinyitems.registry.items.tools.RainbowTools;
 
 import com.chronos.shinyitems.material.RainbowToolMaterial;
 import net.minecraft.client.item.TooltipContext;

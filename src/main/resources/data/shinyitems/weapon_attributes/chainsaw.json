@@ -1,0 +1,6 @@
+{
+  "parent": "bettercombat:wand",
+  "attributes": {
+    "two_handed": true
+  }
+}
